@@ -10,7 +10,7 @@ coverCaption: "A beautiful sunrise"
 coverMeta: in
 comments: false
 ---
-#阅读列表
+## 阅读列表
 
 > css 径向渐变 http://www.w3cplus.com/css3/new-css3-radial-gradient.html
 
@@ -20,7 +20,7 @@ comments: false
 
 <!-- more -->
 
-#阅读列表２
+## 阅读列表２
 > animate.css 一个提供超炫动画效果的css http://daneden.github.io/animate.css/
 
 > animatable 另一个提供动画效果的css https://github.com/leaverou/animatable
