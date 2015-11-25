@@ -1,5 +1,14 @@
 title: 往日汇总
 tags: 其他
+clearReading: true
+thumbnailImage: ""
+thumbnailImagePosition: bottom
+autoThumbnailImage: yes
+metaAlignment: center
+coverImage: ""
+coverCaption: "A beautiful sunrise"
+coverMeta: in
+comments: false
 ---
 #阅读列表
 
